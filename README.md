@@ -1,4 +1,4 @@
-# Come, take a coffe ☕
+# Come, take a coffee ☕
 
 Hi! 🐈 I'm **Nicolás Donoso**, a (mostly) self-taught developer from Chile <img src="./img/chileanFlag.png" width="16px"/>. I enjoy specially frontend development and am learning backend and looking forward to learn more and varied stuff! 🤓
 
@@ -38,3 +38,6 @@ Hi! 🐈 I'm **Nicolás Donoso**, a (mostly) self-taught developer from Chile <i
     <img src="https://camo.githubusercontent.com/31447801c681c2648be144be984ea794c3c5cc33c07017f34aa8bb864c5f801c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f756e6974792d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d756e697479266c6f676f436f6c6f723d7768697465">
 </p>
 
+## My GH Stats 📊
+![Sir-Floppa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sir-Floppa&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sir-Floppa&hide=kotlin&theme=dracula)
