@@ -1,4 +1,4 @@
-# Hey, take a coffe ☕
+# Come, take a coffe ☕
 
 Hi! 🐈 I'm **Nicolás Donoso**, a (mostly) self-taught developer from Chile <img src="./img/chileanFlag.png" width="16px"/>. I enjoy specially frontend development and am learning backend and looking forward to learn more and varied stuff! 🤓
 
