@@ -39,5 +39,7 @@ Hi! 🐈 I'm **Nicolás Donoso**, a (mostly) self-taught developer from Chile <i
 </p>
 
 ## My GH Stats 📊
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sir-Floppa&hide=kotlin&theme=dracula" alt="Top Langs"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Sir-Floppa&show_icons=true&theme=dracula" alt="Sir-Floppa's GitHub stats"/>
+<div style="display: flex; align-items: center; justify-content: space-evenly">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sir-Floppa&hide=kotlin&theme=dracula" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Sir-Floppa&show_icons=true&theme=dracula" alt="Sir-Floppa's GitHub stats"/>
+</div>
